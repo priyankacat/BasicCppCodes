@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
 
+  // First and second numbers are 2 numbers provided by the users
   int first_number, second_number, sum;
     
   cout << "Enter two integers: ";
